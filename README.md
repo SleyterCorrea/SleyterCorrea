@@ -34,8 +34,8 @@
       <table width="100%" border="0" cellpadding="10" cellspacing="0">
         <tr>
           <td bgcolor="#111111" style="border: 2px solid #ff0000; border-radius: 8px; padding: 15px;">
-            <font color="#ff0000"><strong>🧠 Sinapsix</strong></font><br />
-            <p><font color="#ffffff" size="2">Emprendimiento y desarrollo de un sistema ERP completo e inteligente enfocado en la gestión empresarial integrada y optimización de procesos.</font></p>
+            <font color="#ff0000"><strong>Sinapsix</strong></font><br />
+            <p><font color="#ffffff" size="2">Desarrollo de un sistema ERP completo e inteligente.</font></p>
           </td>
         </tr>
       </table>
